@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/imagemfundo2.jpg?fileID=2800000&amp;guid=c0a468f4481beaa43a938463cb597f28&amp;type=3#imagemfundo2&quot;);">
+        <ui:Label tabindex="-1" text="MENU" parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/Silkscreen/Silkscreen-Regular.ttf?fileID=12800000&amp;guid=bcf3bea4a23adc4408203b3001b3cb98&amp;type=3#Silkscreen-Regular&quot;); font-size: 40px; position: relative; left: 43%; top: 50px; right: 50%;" />
+        <ui:Button text="JOGAR" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnjogar" style="top: 50px; opacity: 0.93; display: flex; visibility: visible; transform-origin: right top; height: 46px; width: 154px; left: 41%;" />
+    </ui:VisualElement>
+</ui:UXML>
